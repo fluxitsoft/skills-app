@@ -1,5 +1,5 @@
 # Imagen oficial Python 3.7
-FROM python:3.7
+FROM python:3.11.9
 
 # Work Directory
 WORKDIR /usr/src/app
